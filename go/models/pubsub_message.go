@@ -2,9 +2,6 @@
 
 package models
 
-// #include "../lib.h"
-import "C"
-
 import (
 	"encoding/json"
 )
